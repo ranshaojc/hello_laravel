@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel! - by Jc windows
+                    Laravel! - by Jc
                 </div>
 
                 <div class="links">
